@@ -1,8 +1,8 @@
 {
-    "site_name": "Kickstart",
-    "title": "Eleventy Kickstart Blog",
-    "description": "Starter code for your 11ty blog Boilerplate",
-    "url": "https://eleventy-kickstart-blog.vercel.app/",
+    "site_name": "Tom's Site",
+    "title": "Tom's Site",
+    "description": "My wonderful site",
+    "url": "https://tomtharum.netlify.app/",
     "locale": "en",
-    "author": "LocTran016"
+    "author": "Tomtharum"
   }
