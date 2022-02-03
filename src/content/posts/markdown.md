@@ -1,7 +1,8 @@
 ---
 title: About Me
 img: /main.webp
-excerpt: me
+excerpt: Hello I am Tom. I'm interested in computer science and history
+
 ---
 
    Hello I am Tom. I'm interested in computer science and history. I like looking at computer hardware both new and old, there's a old Dell Optiplex 360 system in my house and also a old Thinkpad T61 (which is burned out) which I took apart and took the ram, cpu, hard drive and dvd but there's still the nvidia gpu to take out. I also like history as I mentioned earlier, especially the first and second world war. 
