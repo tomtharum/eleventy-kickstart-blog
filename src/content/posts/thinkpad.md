@@ -1,5 +1,5 @@
 ---
-title: Dell Optiplex 360
+title: Thinkpad T61
 img: /main.webp
 excerpt: 
 
