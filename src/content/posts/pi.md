@@ -23,12 +23,12 @@ excerpt: The amazing SBC...
  - Twitter had it's first tweet
  So, the world needed many programmers and network engineers to continue developing the Internet.
  Eben Upton tried to find a solution, with the goal of building a computer ten times cheaper than the BBC Micro.
- So was born the Raspberry Pi 1B launched in 2012. So let's get into the system The Pi is a ARM SBC which means 
+ So was born the Raspberry Pi 1A launched in 2012. So let's get into the system The Pi is a ARM SBC which means 
  that the processor is ARM, there is currently no official Windows support for ARM, but you can still use Linux 
  distro such as the official Raspberry pi os,Ubuntu, Manjaro, and many more or you can learn to compile your own
  distro and there are a lot of pros of using Linux over Windows. There are different generation and model of the
  Pi like:
- - Pi 1 Model A (2013)
+ -Pi 1 Model A (2013)
  -Pi 1 Model B+ (2014)
  -Pi 1 Model A+ (2014)
  -Pi 2 Model B (2015)
@@ -40,4 +40,8 @@ excerpt: The amazing SBC...
  -Pi 4 Model A (2019)
  -Pi 4 Model B (2020)
  -Pi 400 (2021)
+ Another cool thing about the Pi is that they have GPIO pins which you can plug appliances and tinker with them 
+ . You can also use them for power to things, I mainly use it for powering the fan to cool my Pi. The new Pi 400 is
+ very different from other Pi as it is a computer in a keyboard and it is no thicker than the official Pi keyboard.
+ 
   
