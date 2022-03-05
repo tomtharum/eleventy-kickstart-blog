@@ -17,11 +17,11 @@ a lot of research but tody I am going to show you the best pc build but those bu
  -Western Digital Blue SN550 500 GB M.2-2280 NVME Solid State Drive
  -Seagate Barracuda Compute 2 TB 3.5" 7200RPM Internal Hard Drive
  -ASUS TUF Gaming NVIDIA GeForce GTX 1650 OC Edition Graphics Card (PCIe 3.0, 4GB GDDR6 Memory
- -Fractal Design Core 1100 - Mini Tower Computer Case - mATX
- -Corsair CX500
- And all of this for a $1090.47 with no shipping price and tax and from Amazon but note these parts prices way
- change.
+ -MSI MAG Forge 100M
+ -EVGA 650 Bq, 80+ Bronze 650W, Semi Modular
   
 This can play 1080p games at medium settings smoothly and can play some games at high settings while getting a 
-solid smooth framerate. 
+solid smooth framerate. You can also upgrade for a more powerful graphics card like a RTX 3080 when gpu prices
+drop.
+
  
