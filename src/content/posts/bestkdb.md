@@ -13,7 +13,7 @@ The Best Overall Mechanical Keyboard:
 
    Ducky One 3 Fuji TKL 
    
-   Pros                      
+   Pros:                     
  
  - Hotswappable         
  - Looks amazing 
@@ -21,7 +21,7 @@ The Best Overall Mechanical Keyboard:
  - Double-shot PBT keycpas
  - Very good value
    
-   Con
+   Con:
    
  - chasis made of plasic entirely
   
@@ -57,7 +57,7 @@ The Best Overall Mechanical Keyboard:
  
     Keychron C1
     
-   Pros
+   Pros:
   
  - Smooth feeling switches
  - Very good value
@@ -75,5 +75,48 @@ The Best Overall Mechanical Keyboard:
   about 60 milllion keystrokes , Gaterons switches are exellent choise for typist and programmer because of they 
   smoothness with little or no scratchiness at all.
    
+ The Best Membrane Keyboard: 
+ 
+    Razer Ornata Chroma Membrane Keyboard
   
-  -     
+   Pros:
+   
+ - Rated to last 80 million keystrokes
+ - Programmable macro keys
+ - Amazing RGB
+ - Keystrokes feel better than most membrane keyboard
+ - Comes with comfortable wrist rest
+   
+   Cons:
+  
+ - Expensive
+ - Less functionality on Mac
+ 
+   This keyboard is a mecha-membrane keyboard, so some people would not consider this membrane but because it's so good
+  I have to put it in this list. This is rated to last as long as most mechanical keyboard. It offers key features for 
+  an great gaming experience such as programmable key-press combinations, chroma RGB lighting that syncs with 
+  gameplay, and a fully integrated comfortable wrist rest that helps keep off fatigue. Thanks to the mecha-membrane keys,
+  The Razer Ornata provids a fixed linear actuation point for reliability and robust anti-ghosting so you don't miss any
+  keystroke.
+  
+ The Best Office Keyboard:
+  
+    Logitech K780 Multi-Device Wireless Keyboard
+  
+   Pros:
+   
+ - Bluetooth or wireless USB reciever
+ - Great typing experience
+ - Quiet typing 
+ - Long battery life 
+ - Seamless device switching
+ - Has a phone or tablet holder
+
+  Cons:
+ 
+ - No backlit
+ - No Caps Lock indicator
+ 
+     
+   
+    
