@@ -34,11 +34,16 @@ drop.
  Seagate Barracuda Compute 2 TB 3.5" 7200RPM Internal Hard Drive
  -GPU: PowerColor Red Dragon RX 590 8GB
  -Case: MSI MAG Forge 100M
- -PSU: Corsair CV450 450 Watt, 80+ Bronze Certified
+ -PSU: Corsair CV550 550 Watt, 80+ Bronze Certified
  
 The AMD version of the build cost less but still has a much more powerful graphics card than the Intel
 while sacrificinga bit of storage on the m.2 nvme ssd but it's okay because it's just the boot drive because
 the HDD is where you store the games and all the stuff. I would prefer the AMD version because the GPU has 8gb
-of VRAM while the GTX 1650 on the Intel version has only 4gb and the AMD version still cost about 200 dollars less
+of VRAM while the GTX 1650 on the Intel version has only 4gb and the AMD version still cost less
 than the Intel version without adding all the taxes and shipping price.
  
+  The Best Budget Gaming PC
+ 
+  -CPU: AMD Ryzen 5 5600g
+  -CPU Cooler: Stock Cooler
+  -Motherboard:
