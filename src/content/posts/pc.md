@@ -47,9 +47,11 @@ than the Intel version without adding all the taxes and shipping price.
   -Motherboard: ASUS Prime B450m-A_II AMD AM4
   -Ram: TEAMGROUP T-Force Vulcan Z DDR4 16GB Kit (2x8GB) 3200MHz
   -Storage: addlink M.2 SSD 256GB S70 Lite Gaming,
-  -GPU: Asus PH-GT1030-O2G GeForce GT 1030 2GB 
+  -GPU: PNY Nvidia T600
   -PSU: EVGA 100-N1-0400-L1 , 400 N1, 400W
+  -Case: Cooler Master MasterBox Q300L Micro-ATX Tower
   
   This PC is the budget pick for us coming around 800 dollars a bit on the expensive side but it can play
  most games at medium settings at around 60-100 frames. This graphics card may be not meant for gaming 
- this can still game very well and remember this is a RTX card.
+ this can still game very well and remember this is a RTX card. 
+ 
