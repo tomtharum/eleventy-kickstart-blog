@@ -12,11 +12,11 @@ a lot of research but tody I am going to show you the best pc build but those bu
  
  -CPU: Intel Core i5-12600K
  -CPU Cooler: Be quiet! Pure Rock 2
- -Motherbpoard: ASUS TUF Gaming B660M-PLUS WiFi D4 LGA 1700(Intel 12th Gen) mATX Gaming Motherboard
+ -Motherbpoard: MSI PRO Z690-A WiFi DDR4 ProSeries Motherboard 
  -Ram: G.Skill Trident Z RGB 16 GB DDR4 3600-cl18
  -Storage: Samsung (MZ-V8V250B/AM) 980 SSD 250GB, Seagate Barracuda Compute 2 TB 3.5" 7200RPM Internal Hard Drive
  -GPU: ASUS TUF Gaming NVIDIA GeForce GTX 1650 OC Edition Graphics Card (PCIe 3.0, 4GB GDDR6 Memory
- -Case: MSI MAG Forge 100M
+ -Case: MSI MAG Forge 100R
  -PSU: EVGA 650 Bq, 80+ Bronze 650W, Semi Modular
   
 This can play 1080p games at medium settings smoothly and can play some games at high settings while getting a 
@@ -27,11 +27,11 @@ drop.
 
  -CPU: AMD Ryzen 5 5600x
  -CPU Cooler: Be Quiet! Shadow Rock Slim 2
- -Motherboard: GIGABYTE B550M DS3H
+ -Motherboard: GIGABYTE B450 AORUS PRO Wi-Fi
  -Ram: G.Skill Trident Z RGB 16 GB DDR4 3600-cl18
  -Storage: Samsung (MZ-V8V250B/AM) 980 SSD 250GB,Seagate Barracuda Compute 2 TB 3.5" 7200RPM Internal Hard Drive
  -GPU: PowerColor Red Dragon RX 590 8GB
- -Case: MSI MAG Forge 100M
+ -Case: MSI MAG Series FORGE 100R
  -PSU: Corsair CV550 550 Watt, 80+ Bronze Certified
  
 The AMD version of the build cost less but still has a much more powerful graphics card than the Intel
