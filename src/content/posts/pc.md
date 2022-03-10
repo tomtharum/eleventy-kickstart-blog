@@ -16,15 +16,12 @@ a lot of research but tody I am going to show you the best pc build but those bu
  -Motherboard: ASUS TUF Gaming Z690-Plus WiFi D4 LGA1700(Intel 12th Gen) ATX gaming motherboard
  -Ram: G.SKILL F4-3600C16D-16GTZR 16 GB
  -Storage: Samsung (MZ-V8V250B/AM) 980 SSD 250GB,Seagate Barracuda Compute 2 TB 3.5" 7200RPM Internal Hard Drive
- -GPU: PowerColor Red Dragon RX 590 8GB
+ -GPU: XFX Speedster SWFT 210 Radeon RX 6600 CORE Gaming Graphics Card with 8GB GDDR6
  -Case: MSI MAG Series FORGE 100R
- -PSU: Corsair CV550 550 Watt, 80+ Bronze Certified
+ -PSU: EVGA 700 GD, 80+ GOLD 700W
  
-The AMD version of the build cost less but still has a much more powerful graphics card than the Intel
-while sacrificinga bit of storage on the m.2 nvme ssd but it's okay because it's just the boot drive because
-the HDD is where you store the games and all the stuff. I would prefer the AMD version because the GPU has 8gb
-of VRAM while the GTX 1650 on the Intel version has only 4gb and the AMD version still cost less
-than the Intel version without adding all the taxes and shipping price.
+   This PC build is about around 1600 dollars and this will perform great you can max out settings on older games, if
+  it's a newer game you can play it in medium or high settings depending on the game.
  
   The Best Budget Gaming PC
  
