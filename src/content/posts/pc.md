@@ -8,27 +8,13 @@ excerpt: The best value gaming pc build...
   Now why is building your own PC is better than buying a prebuilt system? So building your own pc is 
 easier to fix and easier to customize and better overall quality. Now building your own pc may need
 a lot of research but tody I am going to show you the best pc build but those build will not blow the bank :
- The best Gaming PC
- 
- -CPU: Intel Core i5-12600K
- -CPU Cooler: Be quiet! Pure Rock 2
- -Motherbpoard: MSI PRO Z690-A WiFi DDR4 ProSeries Motherboard 
- -Ram: G.Skill Trident Z RGB 16 GB DDR4 3600-cl18
- -Storage: Samsung (MZ-V8V250B/AM) 980 SSD 250GB, Seagate Barracuda Compute 2 TB 3.5" 7200RPM Internal Hard Drive
- -GPU: ASUS TUF Gaming NVIDIA GeForce GTX 1650 OC Edition Graphics Card (PCIe 3.0, 4GB GDDR6 Memory
- -Case: MSI MAG Forge 100R
- -PSU: EVGA 650 Bq, 80+ Bronze 650W, Semi Modular
-  
-This can play 1080p games at medium settings smoothly and can play some games at high settings while getting a 
-solid smooth framerate. You can also upgrade for a more powerful graphics card like a RTX 3080 when gpu prices
-drop.
 
- The Best AMD Gaming PC
+ The Best Gaming PC
 
- -CPU: AMD Ryzen 5 5600x
+ -CPU: Intel Core i5-12600k
  -CPU Cooler: Be Quiet! Shadow Rock Slim 2
- -Motherboard: GIGABYTE B450 AORUS PRO Wi-Fi
- -Ram: G.Skill Trident Z RGB 16 GB DDR4 3600-cl18
+ -Motherboard: ASUS TUF Gaming Z690-Plus WiFi D4 LGA1700(Intel 12th Gen) ATX gaming motherboard
+ -Ram: G.SKILL F4-3600C16D-16GTZR 16 GB
  -Storage: Samsung (MZ-V8V250B/AM) 980 SSD 250GB,Seagate Barracuda Compute 2 TB 3.5" 7200RPM Internal Hard Drive
  -GPU: PowerColor Red Dragon RX 590 8GB
  -Case: MSI MAG Series FORGE 100R
