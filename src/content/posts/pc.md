@@ -38,5 +38,14 @@ a lot of research but tody I am going to show you the best pc build but those bu
  most games at medium settings at around 60-100 frames. This graphics card may be not meant for gaming 
  this can still game very well and remember this is a RTX card. 
  
+  The Best No-GPU PC
+  
+  -CPU: AMD Ryzen 5 5600g
+  -CPU Cooler: beQuiet! BK024 Dark Rock Slim CPU Cooler
+  -Motherboard: MSI B550-A PRO ProSeries Motherboard AMD AM4, DDR4
+  -Ram:Patriot Viper 4 Blackout Series DDR4 16GB (2 x 8GB) 4400MHz Kit
+  -Storage:Samsung (MZ-V8V250B/AM) 980 SSD 250GB,Seagate Barracuda Compute 2 TB 3.5" 7200RPM Internal Hard Drive
+  -PSU: Thermaltake SMART 600W ATX 12V V2.3/EPS 12V 80 Plus Certified Active PFC Power Supply
+  -Case: Cooler Master MasterBox TD500 Mesh White Airflow ATX Mid-Tower
  
  
