@@ -40,12 +40,20 @@ a lot of research but tody I am going to show you the best pc build but those bu
  
   The Best No-GPU PC
   
-  -CPU: AMD Ryzen 5 5600g
+  -CPU: AMD Ryzen 7 5600g
   -CPU Cooler: beQuiet! BK024 Dark Rock Slim CPU Cooler
   -Motherboard: MSI B550-A PRO ProSeries Motherboard AMD AM4, DDR4
   -Ram:Patriot Viper 4 Blackout Series DDR4 16GB (2 x 8GB) 4400MHz Kit
   -Storage:Samsung (MZ-V8V250B/AM) 980 SSD 250GB,Seagate Barracuda Compute 2 TB 3.5" 7200RPM Internal Hard Drive
   -PSU: Thermaltake SMART 600W ATX 12V V2.3/EPS 12V 80 Plus Certified Active PFC Power Supply
   -Case: Cooler Master MasterBox TD500 Mesh White Airflow ATX Mid-Tower
- 
- 
+  
+  The Best Family PC Build
+  
+  -CPU: AMD Ryzen 5 5600x
+  -CPU Cooler: Stock Cooler
+  -Motherboard: GIGABYTE B550M DS3H AM4 AMD, Micro ATX
+  -Ram: Corsair Vengeance LPX 8GB (1x8GB) DDR4 3200 (PC4-25600) C16
+  -Storage: Kingston 480GB A400 M.2 Internal SSD
+  -GPU: MSI Computer Video Graphic Cards GeForce GTX 1050 TI GAMING X 4GB
+  -PSU: 
