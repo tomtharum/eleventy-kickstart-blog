@@ -68,6 +68,13 @@ a lot of research but tody I am going to show you the best pc build but those bu
   -CPU Cooler: Noctua NH-D15
   -Motherboard:  GIGABYTE X570 AORUS Elite Wi-Fi
   -Ram: G.Skill Trident Z NEO Series 32GB (2 x 16GB) 288-Pin SDRAM DDR4 4000
-  -Storage: Samsung 980 PRO SSD 1TB PCIe 4.0 NVMe Gen 4
-  -GPU: ASUS ROG Strix NVIDIA GeForce RTX 3080 Ti OC Edition Gaming Graphics Card
-  -PSU:
+  -Storage: Samsung 980 PRO SSD 1TB PCIe 4.0 NVMe Gen 4,Seagate Barracuda Computer 2 TB 3.5" 7200RPM Interanl Hard Drive
+  -GPU: MSI Gaming GeForce GTX 1660 Super
+  -PSU: be quiet! Straight Power 11 550W, BN617, Fully Modular, 80 Plus Gold
+  -Case: NZXT H510 Flow
+  
+   I prefer this build because for I don't game much and if I ever game I would never play demanding games so I could use the
+  intregrated graphics but I think gtx 1660 super is overkill for me because I usually do stuff like researching, online class
+  and watching videos. I just put some overkill parts to future-proofing it so I don't need to upgrade it soon because most 
+  computers get obsolete in just a few years.
+  
