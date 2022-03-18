@@ -52,8 +52,22 @@ a lot of research but tody I am going to show you the best pc build but those bu
   
   -CPU: AMD Ryzen 5 5600x
   -CPU Cooler: Stock Cooler
-  -Motherboard: GIGABYTE B550M DS3H AM4 AMD, Micro ATX
+  -Motherboard: ASUS Prime B550M-A WiFi, Micro ATX
   -Ram: Corsair Vengeance LPX 8GB (1x8GB) DDR4 3200 (PC4-25600) C16
   -Storage: Kingston 480GB A400 M.2 Internal SSD
   -GPU: MSI Computer Video Graphic Cards GeForce GTX 1050 TI GAMING X 4GB
-  -PSU: 
+  -PSU: Corsair CV450 
+  -Case: Cooler Master MasterBox Q300L Micro-ATX Tower
+  
+   This PC is great for family use, you can do many task on this computer smoothly like watching movies, researching
+  and even play some games that doesn't use much resources.
+  
+  My Preference
+  
+  -CPU: AMD Ryzen 7 5800x
+  -CPU Cooler: Noctua NH-D15
+  -Motherboard:  GIGABYTE X570 AORUS Elite Wi-Fi
+  -Ram: G.Skill Trident Z NEO Series 32GB (2 x 16GB) 288-Pin SDRAM DDR4 4000
+  -Storage: Samsung 980 PRO SSD 1TB PCIe 4.0 NVMe Gen 4
+  -GPU: ASUS ROG Strix NVIDIA GeForce RTX 3080 Ti OC Edition Gaming Graphics Card
+  -PSU:
