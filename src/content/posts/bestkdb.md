@@ -115,8 +115,35 @@ The Best Overall Mechanical Keyboard:
   Cons:
  
  - No backlit
- - No Caps Lock indicator
+ - No Caps Lock indicator 
+
+  This keyboard is great for office-work due to its silent and comfortable typing experience. You can even hold a phone or
+ tablet on the end of the keyboard. You can connect this keyboard through Bluetooth or a wireless USB reciever and you will 
+ almost never need to replace the batteries because of its long battery life. And as the name complies you can switch the
+ device seamlessly. But if you work at night or anywhere dark, you are out of luck because this keyboard unfortunately has 
+ no backlit and to add more it has no Caps Lock indicator which for me is okay but for some people it is a little anoyying.
  
-     
+ The Best Barebones Keyboard
+ 
+   GMMK Pro 75
+   
+  Pros:
+ 
+- Excellent build quality
+- Programmable keys
+- Programmable Rotatary Knob
+- Super customizable
+- Great RGB
+- Hotswap
+ 
+  Cons:
+ 
+- Unremarkable ergonomics
+
+ The GMMK Pro 75 is the best barebone keyboard you can get for the price, This board is a brick it has no flex at all and feels 
+as solid as a keyboard can get because it is a full thick alluminum chassis and base plate. This keyboard has full-programmable 
+keys and the programmable rotatary knob which is a little fancy extra suprise. This board has great per-key RGB. But one thing 
+that pull this back is the ergonomics which is not great because of the high profile of the board so you may need to buy a wrist
+wrest.
    
     
