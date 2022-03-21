@@ -11,7 +11,7 @@ customizability, feel and sound.
 
 The Best Overall Mechanical Keyboard:
 
-   Ducky One 3 Fuji TKL 
+   Ducky One 3 TKL 
    
    Pros:                     
  
@@ -145,5 +145,23 @@ as solid as a keyboard can get because it is a full thick alluminum chassis and 
 keys and the programmable rotatary knob which is a little fancy extra suprise. This board has great per-key RGB. But one thing 
 that pull this back is the ergonomics which is not great because of the high profile of the board so you may need to buy a wrist
 wrest.
+
+
+The Best Keyboard for Programming and Coding
+   
+   EPOMAKER AK84S
+   
+   Pros:
+   
+ - Great Keycaps
+ - Bluetooth and Wired
+ - Long Battery Life
+ - Great Ergonomics
+ - Hotswappable
+
+   Cons:
+    
+ - Mac layout
+ - Pay more for alluminium frame
    
     
