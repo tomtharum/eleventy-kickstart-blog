@@ -13,9 +13,9 @@ excerpt: The best value gaming pc build...
 
  The Best Gaming PC
 
- -CPU: Intel Core i5-12600k
+ -CPU: Intel Core i5-12600KF
  -CPU Cooler: Be Quiet! Shadow Rock Slim 2
- -Motherboard: ASUS TUF Gaming Z690-Plus WiFi D4 LGA1700(Intel 12th Gen) ATX gaming motherboard
+ -Motherboard: ASUS ROG Strix B660-A Gaming WiFi D4 LGA 1700(Intel 12th Gen) ATX Gaming Motherboard
  -Ram: G.SKILL F4-3600C16D-16GTZR 16 GB
  -Storage: Samsung (MZ-V8V250B/AM) 980 SSD 250GB,Seagate Barracuda Compute 2 TB 3.5" 7200RPM Internal Hard Drive
  -GPU: MSI Gaming GeForce RTX 3050 8GB GDRR6
@@ -24,6 +24,7 @@ excerpt: The best value gaming pc build...
   
   This PC is well capable of running graphics intensive games like Cyberpunk 2077 at Ultra settings smoothly or 
  Forza Horizon 5 at Medium settings smoothly. This PC is gonna be ultra smooth at almost everything you throw at.
+ The processor in this rig is really good for the price and is gonna handle task like browsing...
  
   The Best Budget Gaming PC
  
@@ -33,7 +34,7 @@ excerpt: The best value gaming pc build...
   -Ram: TEAMGROUP T-Force Vulcan Z DDR4 16GB Kit (2x8GB) 3200MHz
   -Storage: TEAMGROUP MP33 1TB SLC Cache 3D NAND TLC NVMe 1.3 PCIe Gen3x4 M.2 2280 Internal Solid State Drive SSD
   -GPU: Sapphire Technology 11310-01-20G Pulse AMD Radeon RX 6600 Gaming Graphics Card with 8GB GDDR6
-  -PSU: EVGA 100-N1-0400-L1 , 400 N1, 400W
+  -PSU: Thermaltake Smart 500W 80+ White Certified PSU
   -Case: Thermaltake V200 Tempered Glass RGB Edition 12V MB Sync Capable ATX Mid-Tower Chassis
   
   This PC is the budget pick for us but it can play most games at medium settings at around 60-100 frames.
