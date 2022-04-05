@@ -149,19 +149,22 @@ wrest.
 
 The Best Keyboard for Programming and Coding
    
-   EPOMAKER AK84S
+   EPOMAKER TH80
    
    Pros:
    
- - Great Keycaps
+ - Prelubed Switches
  - Bluetooth and Wired
  - Long Battery Life
  - Great Ergonomics
  - Hotswappable
+ - Durable Keycaps
+ - Amazing RGB
 
    Cons:
     
  - Mac layout
- - Pay more for alluminium frame
+ - Possibly Uncomfortable Keycap Profile
+
    
     
