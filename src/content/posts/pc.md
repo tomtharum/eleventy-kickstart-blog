@@ -15,7 +15,7 @@ excerpt: The best value gaming pc build...
 
  -CPU: Intel Core i5-12600KF
  -CPU Cooler: Be Quiet! Shadow Rock Slim 2
- -Motherboard: ASUS ROG Strix B660-A Gaming WiFi D4 LGA 1700(Intel 12th Gen) ATX Gaming Motherboard
+ -Motherboard: ASUS TUF Gaming Z690-Plus WiFi D4 LGA1700(Intel 12th Gen) ATX gaming motherboard
  -Ram: G.SKILL F4-3600C16D-16GTZR 16 GB
  -Storage: Samsung (MZ-V8V250B/AM) 980 SSD 250GB,Seagate Barracuda Compute 2 TB 3.5" 7200RPM Internal Hard Drive
  -GPU: MSI Gaming GeForce RTX 3050 8GB GDRR6
@@ -30,15 +30,16 @@ excerpt: The best value gaming pc build...
  
   -CPU: AMD Ryzen 5 5600x
   -CPU Cooler: Stock Cooler
-  -Motherboard: ASUS ROG Strix B450-F Gaming II AMD AM4
+  -Motherboard: ASUS TUF Gaming B450-PLUS II AMD AM4
   -Ram: TEAMGROUP T-Force Vulcan Z DDR4 16GB Kit (2x8GB) 3200MHz
   -Storage: TEAMGROUP MP33 1TB SLC Cache 3D NAND TLC NVMe 1.3 PCIe Gen3x4 M.2 2280 Internal Solid State Drive SSD
-  -GPU: Sapphire Technology 11310-01-20G Pulse AMD Radeon RX 6600 Gaming Graphics Card with 8GB GDDR6
+  -GPU: MSI Gaming AMD Radeon RX 6600 128-bit 8GB GDDR6
   -PSU: Thermaltake Smart 500W 80+ White Certified PSU
   -Case: Thermaltake V200 Tempered Glass RGB Edition 12V MB Sync Capable ATX Mid-Tower Chassis
   
   This PC is the budget pick for us but it can play most games at medium settings at around 60-100 frames.
- This is gonna be a decent PC for general usage.
+ This is gonna be a decent PC for general usage. The stock cooler included in the box is fairly decent and 
+ can handle a little light overclocking but not recommended.
  
   The Best No-GPU PC
   
@@ -51,7 +52,8 @@ excerpt: The best value gaming pc build...
   -Case: Cooler Master MasterBox TD500 Mesh White Airflow ATX Mid-Tower
   
    Due to the current gpu crisis, IGPU are making more sense and some of the best IGPU come from AMD and this build
-  is a great alternative to some graphics card. This build is gonna game on modern games but not at the highest settings.
+  is a great alternative to some graphics card. This build is gonna game but don't expect it to game at the highest 
+  settings or play demanding games like Cyberpunk 2077, Forza Horizon 5 and other demanding games.
   
   The Best Family PC Build
   
@@ -76,10 +78,10 @@ excerpt: The best value gaming pc build...
   -Storage: Samsung 980 PRO SSD 1TB PCIe 4.0 NVMe Gen 4,Seagate Barracuda Computer 2 TB 3.5" 7200RPM Interanl Hard Drive
   -GPU: ASUS ROG Strix NVIDIA GeForce RTX 3050 OC Edition Gaming Graphics Card
   -PSU: be quiet! Straight Power 11 Platinum 850W, BN643, Fully Modular, Power Supply
-  -Case: CORSAIR iCUE 7000X RGB Full-Tower ATX PC Case, White
+  -Case: NZXT H510 Elite
   
    I prefer this build because for I don't game much and if I ever game I would never play demanding games so I could use the
   intregrated graphics but I think gtx 1660 super is overkill for me because I usually do stuff like researching, online class
   and watching videos. I just put some overkill parts to future-proofing it so I don't need to upgrade it soon because most 
-  computers get obsolete in just a few years.
+  computers get obsolete in just a few years. 
   
