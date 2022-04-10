@@ -11,9 +11,9 @@ customizability, feel and sound.
 
 The Best Overall Mechanical Keyboard:
 
-   Ducky One 3 TKL 
+   Ducky One 3 TKL Fuji
    
-   Pros:                     
+   Pros:  
  
  - Hotswappable         
  - Looks amazing 
@@ -26,7 +26,7 @@ The Best Overall Mechanical Keyboard:
  - chasis made of plasic entirely
   
   This keyboard is a solid purchase for the cost with quiet rattly-less stablizers and the the keycaps match 
- the scheme of the keyboar. The doubleshot PBT keycaps are made to last years and years without getting 
+ the scheme of the keyboard. The doubleshot PBT keycaps are made to last years and years without getting 
  greasy are the legends fading. For this price point you would've expected alluminium chasis but it is made 
  out of plastic. 
  
@@ -165,6 +165,8 @@ The Best Keyboard for Programming and Coding
     
  - Mac layout
  - Possibly Uncomfortable Keycap Profile
+
+
 
    
     
