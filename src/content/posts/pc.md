@@ -28,7 +28,7 @@ excerpt: The best value gaming pc build...
  
   The Best Budget Gaming PC
  
-  -CPU: AMD Ryzen 5 5600x
+  -CPU: AMD Ryzen 5 5600
   -CPU Cooler: Stock Cooler
   -Motherboard: ASUS TUF Gaming B450-PLUS II AMD AM4
   -Ram: TEAMGROUP T-Force Vulcan Z DDR4 16GB Kit (2x8GB) 3200MHz
