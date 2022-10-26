@@ -2695,19 +2695,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vue/reactivity@npm:^3.0.2":
-  version: 3.1.2
-  resolution: "@vue/reactivity@npm:3.1.2"
+"@vue/reactivity@npm:~3.1.1":
+  version: 3.1.5
+  resolution: "@vue/reactivity@npm:3.1.5"
   dependencies:
-    "@vue/shared": 3.1.2
-  checksum: b09b35f7d02b4da3877205f0df2bdd9e59d8e2ae64948156d01f9ea5eb0a3382f14a8ff954b66a8b33ff8048deab5dcecdcccf9a3720c070e82a92d1a99ed6b3
+    "@vue/shared": 3.1.5
+  checksum: 045103ae77f32b02e0d3d0b3b2503388e0282f07d1bdabff5a2dc01db05d0ff8b259069c17c060124658933146e47e6c7c8155e4923f1c0cf045e1e29e29c592
   languageName: node
   linkType: hard
 
-"@vue/shared@npm:3.1.2":
-  version: 3.1.2
-  resolution: "@vue/shared@npm:3.1.2"
-  checksum: 20f24c4dea0a25a35c4caa06748f8de1e545d780d5ed49565ecad9d5e73297e1a28f757b5a3aed54b3861a8e19f4c33e438c80218bbd82664f04d0dbd81d1905
+"@vue/shared@npm:3.1.5":
+  version: 3.1.5
+  resolution: "@vue/shared@npm:3.1.5"
+  checksum: 1f4395e246942486a50f0f9ba3955d81012753104d015b3be62797ed723aa39b62453ba6c50ae189fcab64945a53354e5f255613b3bb7c1a0f5261374d5e11f4
   languageName: node
   linkType: hard
 
@@ -2893,12 +2893,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"alpinejs@npm:^3.2.1":
-  version: 3.2.1
-  resolution: "alpinejs@npm:3.2.1"
+"alpinejs@npm:^3.10.5":
+  version: 3.10.5
+  resolution: "alpinejs@npm:3.10.5"
   dependencies:
-    "@vue/reactivity": ^3.0.2
-  checksum: b62c94bb1bd7a167909b3e98423bfb7b86d721a4ce785d04b6cbf72403ac2e65c350d4628d42850c3b0a2b71c504992b69d5932cb583465c0ab2eb379c9c2daf
+    "@vue/reactivity": ~3.1.1
+  checksum: 543d21851ec93e431e3caccc524bbe55d9edd94cd54722c66c02ae5cb9948645ca921b50115bb8c1d26743ea0180c90a0d626b27881e6c3961a0a23b623f507c
   languageName: node
   linkType: hard
 
@@ -6897,7 +6897,7 @@ __metadata:
     "@picgo/bump-version": ^1.1.0
     "@squoosh/lib": ^0.3.1
     "@vitejs/plugin-legacy": ^1.4.3
-    alpinejs: ^3.2.1
+    alpinejs: ^3.10.5
     autoprefixer: ^10.2.6
     concurrently: ^6.2.0
     cross-env: ^7.0.3
