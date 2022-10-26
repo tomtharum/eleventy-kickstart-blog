@@ -6929,7 +6929,7 @@ __metadata:
     postcss-preset-env: ^6.7.0
     prettier: ^2.3.2
     psi: ^4.1.0
-    reveal.js: ^4.1.3
+    reveal.js: ^4.4.0
     rimraf: ^3.0.2
     run-script-os: ^1.1.6
     stylelint: 13.13.1
@@ -13612,10 +13612,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"reveal.js@npm:^4.1.3":
-  version: 4.1.3
-  resolution: "reveal.js@npm:4.1.3"
-  checksum: fcd2bd693c7ae452c09f0c28645ac0e7291c38b57910e5e04228615c24b71e3f9c93d4c7e9036441fe05ddef4fc8d2ea35c0384ee526ab9c692c7c55b1b3743c
+"reveal.js@npm:^4.4.0":
+  version: 4.4.0
+  resolution: "reveal.js@npm:4.4.0"
+  checksum: e8d4a9e3b3d232ba363575d6d82cb4c0a4ae4e58cd3d0ec8c5180dfe651585389c7d2f579ebee5ea0537c897e1cb1d02e0b3aad3fbb339266b2df196adc1e190
   languageName: node
   linkType: hard
 
