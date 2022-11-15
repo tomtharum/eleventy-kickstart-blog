@@ -6917,7 +6917,7 @@ __metadata:
     format-package: ^6.1.0
     glob: ^7.1.7
     html-minifier: ^4.0.0
-    husky: ^6.0.0
+    husky: ^8.0.2
     lighthouse: ^8.0.0
     markdown-it-anchor: ^8.0.4
     markdown-it-attrs: ^4.0.0
@@ -8007,12 +8007,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"husky@npm:^6.0.0":
-  version: 6.0.0
-  resolution: "husky@npm:6.0.0"
+"husky@npm:^8.0.2":
+  version: 8.0.2
+  resolution: "husky@npm:8.0.2"
   bin:
     husky: lib/bin.js
-  checksum: 61e1f7f53f3c969d361c2a1d4ed8018b9447406ea6cd644a2526d18b76877d135001d8cbd48a1d201fc1614d96995e691ecd2b82a8d8513a6b4a313da1188ccd
+  checksum: 199dca5b9f805cbbaebcedbaac23c098019dc5140a95ed235d267f0d0d672e02ca912de98d3964256a09a24a69c7809de3ebafff0d2458d7aad255939dfee319
   languageName: node
   linkType: hard
 
