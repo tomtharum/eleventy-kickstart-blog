@@ -1985,10 +1985,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fortawesome/fontawesome-free@npm:^5.15.3":
-  version: 5.15.3
-  resolution: "@fortawesome/fontawesome-free@npm:5.15.3"
-  checksum: aa299f7699d41787b86dab36996f12881096ee54a0c8ea73891177e14bd6edba9a790ec866fb871bdd9dc9927c7a56214fab8bf457dffb172433ea1747471811
+"@fortawesome/fontawesome-free@npm:^6.2.1":
+  version: 6.2.1
+  resolution: "@fortawesome/fontawesome-free@npm:6.2.1"
+  checksum: a03cea69765975d397b05f0fbde7d456454d57524ae91c4f1db12e43cad1a8abd68f656ea87971f3ddb086a2ed48885c2a323cd6d2cf272ea6d686aa48fb3849
   languageName: node
   linkType: hard
 
@@ -6893,7 +6893,7 @@ __metadata:
     "@babel/preset-env": ^7.14.7
     "@commitlint/cli": ^12.1.4
     "@commitlint/config-conventional": ^12.1.4
-    "@fortawesome/fontawesome-free": ^5.15.3
+    "@fortawesome/fontawesome-free": ^6.2.1
     "@picgo/bump-version": ^1.1.0
     "@squoosh/lib": ^0.3.1
     "@vitejs/plugin-legacy": ^1.4.3
