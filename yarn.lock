@@ -1552,10 +1552,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/standalone@npm:^7.14.7":
-  version: 7.14.7
-  resolution: "@babel/standalone@npm:7.14.7"
-  checksum: 9729d11f5a9a7de8f5f4d1059fe14788467c72f1b33cbeecd360bab4f5695b5999876867c301a6b912cf85e05e3e11073b12be262a840aff4739eb00b063b6c0
+"@babel/standalone@npm:^7.20.0":
+  version: 7.20.4
+  resolution: "@babel/standalone@npm:7.20.4"
+  checksum: 8f1fc8207e7610994de0febeef746d122654983fc522db9c3a00943c644c5bdd435099bd934aee562d048127715273eff2c0c0f356e1e276a3ee387705e2c05a
   languageName: node
   linkType: hard
 
@@ -2680,18 +2680,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vitejs/plugin-legacy@npm:^1.4.3":
-  version: 1.4.3
-  resolution: "@vitejs/plugin-legacy@npm:1.4.3"
+"@vitejs/plugin-legacy@npm:^2.3.1":
+  version: 2.3.1
+  resolution: "@vitejs/plugin-legacy@npm:2.3.1"
   dependencies:
-    "@babel/standalone": ^7.14.7
-    core-js: ^3.15.1
-    magic-string: ^0.25.7
-    regenerator-runtime: ^0.13.7
-    systemjs: ^6.10.1
+    "@babel/standalone": ^7.20.0
+    core-js: ^3.26.0
+    magic-string: ^0.26.7
+    regenerator-runtime: ^0.13.10
+    systemjs: ^6.13.0
   peerDependencies:
-    vite: ^2.0.0
-  checksum: 2529c938468644a631ea92a4fcaef7a7e6da4fc1dc4905319c38947cec21713986f7fa66054bf781fdb04de54abbe21601f62cc9c996441c2edbc7624264ff63
+    terser: ^5.4.0
+    vite: ^3.0.0
+  checksum: dbfc9b24eb75765522bad4c365905eac9b215b946c6fc2a244bd2fa5ec8c0730384c1ae81248ed77284968ef2ee3f49cc8ec8542adc7f7fb385c966465e0b294
   languageName: node
   linkType: hard
 
@@ -4868,10 +4869,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"core-js@npm:^3.15.1":
-  version: 3.15.1
-  resolution: "core-js@npm:3.15.1"
-  checksum: 162cc456311d54da079f9bf447a86f626c443f2893a2541fe159b520ec38730c0200fa61c9ce5a3743f450e36024ac754f5c0a2ca22053d60be8b4cfee6c4d2e
+"core-js@npm:^3.26.0":
+  version: 3.26.1
+  resolution: "core-js@npm:3.26.1"
+  checksum: cfcc46b6e82628090bc4c967d23a8dd2caed9d537b55d5b53890d6a51291d532b7bd0809e8463ac42028a80fc18af3788ef092881d6df944ce0e726330cd0d53
   languageName: node
   linkType: hard
 
@@ -6896,7 +6897,7 @@ __metadata:
     "@fortawesome/fontawesome-free": ^5.15.3
     "@picgo/bump-version": ^1.1.0
     "@squoosh/lib": ^0.3.1
-    "@vitejs/plugin-legacy": ^1.4.3
+    "@vitejs/plugin-legacy": ^2.3.1
     alpinejs: ^3.2.1
     autoprefixer: ^10.2.6
     concurrently: ^6.2.0
@@ -9865,12 +9866,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"magic-string@npm:^0.25.7":
-  version: 0.25.7
-  resolution: "magic-string@npm:0.25.7"
+"magic-string@npm:^0.26.7":
+  version: 0.26.7
+  resolution: "magic-string@npm:0.26.7"
   dependencies:
-    sourcemap-codec: ^1.4.4
-  checksum: 4b70c13eb21c6f1c54bf7fb029748dc44d6bfcd3c59e5deeda060eecc38df6144b91d10fb7a3cf6156fadab1a68f83d69a189df20ca5f6bd088bf0196ea8f039
+    sourcemap-codec: ^1.4.8
+  checksum: 84353cc563bde8faa3652322612975887ee323a61a643dbcc547302422a4be8c1704a25da2e0c975ee6d3ebc5b92e321ac24cd40532cabc5f8b5665fa95ea8a5
   languageName: node
   linkType: hard
 
@@ -13262,7 +13263,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"regenerator-runtime@npm:^0.13.3, regenerator-runtime@npm:^0.13.4, regenerator-runtime@npm:^0.13.7":
+"regenerator-runtime@npm:^0.13.10":
+  version: 0.13.11
+  resolution: "regenerator-runtime@npm:0.13.11"
+  checksum: b7c850f32500838961c073b885f0b18671867e2f3626d0c6de18fc269147f57d1777fe42d045cb1b9c0dc31a69a5c456d684afeb9adb05cbd788dac521403e68
+  languageName: node
+  linkType: hard
+
+"regenerator-runtime@npm:^0.13.3, regenerator-runtime@npm:^0.13.4":
   version: 0.13.8
   resolution: "regenerator-runtime@npm:0.13.8"
   checksum: 20178f5753f181d59691e5c3b4c59a2769987f75c7ccf325777673b5478acca61a553b10e895585086c222f72f5ee428090acf50320264de4b79f630f7388653
@@ -14354,7 +14362,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sourcemap-codec@npm:^1.4.4":
+"sourcemap-codec@npm:^1.4.8":
   version: 1.4.8
   resolution: "sourcemap-codec@npm:1.4.8"
   checksum: 4d56d1232a45af813606d1755f11e7ae6b3542c615a7e3f904382f0134a9412ba8d090e83749254d78449eafdfcc62d5158b8f35e6241480b51b74b5c46b99f9
@@ -14985,10 +14993,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"systemjs@npm:^6.10.1":
-  version: 6.10.1
-  resolution: "systemjs@npm:6.10.1"
-  checksum: c25cbea0cc31d9928b20ebd6e314611604bff3f6716bd34516d99c7d4f517f4ca6dcfe13f914159d76c7d9281de0063ae5f87b45e887e3d6c250640239248977
+"systemjs@npm:^6.13.0":
+  version: 6.13.0
+  resolution: "systemjs@npm:6.13.0"
+  checksum: c39685511f0dd6a4a2f97c3da228e0741fa167bcb9c1beaf3cae06957a4a24c6009e5e9654d169c899d68b22390e5289b91e3471aae251f74449dc32fa0e17d6
   languageName: node
   linkType: hard
 
