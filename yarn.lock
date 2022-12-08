@@ -6927,7 +6927,7 @@ __metadata:
     overlayscrollbars: ^1.13.1
     postcss: ^8.3.5
     postcss-preset-env: ^6.7.0
-    prettier: ^2.3.2
+    prettier: ^2.8.1
     psi: ^4.1.0
     reveal.js: ^4.1.3
     rimraf: ^3.0.2
@@ -12586,12 +12586,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:^2.3.2":
-  version: 2.3.2
-  resolution: "prettier@npm:2.3.2"
+"prettier@npm:^2.8.1":
+  version: 2.8.1
+  resolution: "prettier@npm:2.8.1"
   bin:
     prettier: bin-prettier.js
-  checksum: 4fd89a7f6a12b13456d359fba2b1dd0fc0a17cf33f8f15953ab9f43b21ea9b09b5a2861d63b558ca0577274ce606d390e70628cf93e26d19d6cb7f19c9eebc31
+  checksum: 9d95411c5fa78e5b2143e0fd6ce6fd1a52aa795656ba8bf00c70de34a76e4a64b00ce978f55c3566bf6d7c40c4bb0792db41db2cccced874f19656dae0f8ab83
   languageName: node
   linkType: hard
 
