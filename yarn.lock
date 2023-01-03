@@ -6118,14 +6118,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:^8.3.0":
-  version: 8.3.0
-  resolution: "eslint-config-prettier@npm:8.3.0"
+"eslint-config-prettier@npm:^8.6.0":
+  version: 8.6.0
+  resolution: "eslint-config-prettier@npm:8.6.0"
   peerDependencies:
     eslint: ">=7.0.0"
   bin:
     eslint-config-prettier: bin/cli.js
-  checksum: 94ccbb50fb67e5e47e8ba6cfa257b5cbf53619990ab13f46b99518cfe9b900394b93bdf6ffedbde1a8e2997d301b0fbd73a6b4202146bc53475dfb30a8c812f2
+  checksum: 410fefb9747543acfd4f2c214b2d9f9dfde3f7a76c1c51367a772b2fc31e24aa6320f369e9d2ec18476822495774a18535fe6ea463f5b6fa529f6d8cb6eb48a1
   languageName: node
   linkType: hard
 
@@ -6907,7 +6907,7 @@ __metadata:
     eleventy-plugin-lazyimages: ^2.1.0
     eleventy-plugin-reader-bar: ^0.2.0
     eslint: ^7.29.0
-    eslint-config-prettier: ^8.3.0
+    eslint-config-prettier: ^8.6.0
     eslint-config-standard: ^16.0.3
     eslint-plugin-html: ^6.1.2
     eslint-plugin-import: ^2.23.4
