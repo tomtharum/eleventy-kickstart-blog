@@ -2540,12 +2540,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@squoosh/lib@npm:^0.3.1":
-  version: 0.3.1
-  resolution: "@squoosh/lib@npm:0.3.1"
+"@squoosh/lib@npm:^0.5.3":
+  version: 0.5.3
+  resolution: "@squoosh/lib@npm:0.5.3"
   dependencies:
+    wasm-feature-detect: ^1.2.11
     web-streams-polyfill: ^3.0.3
-  checksum: a11dda9565294f3f10d8d77cc3975f98752f6440df2f50e6a80b7f297668687823249fe93aee460f73722c1f16863ed51c3f8347e27ded78b7ebba6620865631
+  checksum: 2ff017792e1ce573e9d29d097fa4617d33593b1574c829df3f62de39a8e3fbe60b89fa225e61393403fb06652f05720023ff759328a2027690c47c6ce894d859
   languageName: node
   linkType: hard
 
@@ -6895,7 +6896,7 @@ __metadata:
     "@commitlint/config-conventional": ^12.1.4
     "@fortawesome/fontawesome-free": ^5.15.3
     "@picgo/bump-version": ^1.1.0
-    "@squoosh/lib": ^0.3.1
+    "@squoosh/lib": ^0.5.3
     "@vitejs/plugin-legacy": ^1.4.3
     alpinejs: ^3.2.1
     autoprefixer: ^10.2.6
@@ -15994,6 +15995,13 @@ __metadata:
   dependencies:
     xml-name-validator: ^3.0.0
   checksum: 2327c8a6c7302ed4b685125c193f4b4b859ee12cd6e1938407a02dda9cfcfff7f0c103de387b268444c4b61d7892d5260b5c684eb7519886fb3a07798bd565ba
+  languageName: node
+  linkType: hard
+
+"wasm-feature-detect@npm:^1.2.11":
+  version: 1.3.0
+  resolution: "wasm-feature-detect@npm:1.3.0"
+  checksum: 9a921744d417422df427311726c68af19375023e604566bec9f8f2e9fcba9d41a5756801ff3ef6abf389ba9a981f5610619da7179ddefd410ad22f3233611635
   languageName: node
   linkType: hard
 
