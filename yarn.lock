@@ -6936,7 +6936,7 @@ __metadata:
     stylelint-config-prettier: ^8.0.2
     stylelint-config-standard: 22.0.0
     tailwindcss: ^2.2.4
-    theme-change: ^2.0.2
+    theme-change: ^2.3.0
     tree-node-cli: ^1.4.0
     typed.js: ^2.0.12
     vite: ^2.3.8
@@ -15141,10 +15141,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"theme-change@npm:^2.0.2":
-  version: 2.0.2
-  resolution: "theme-change@npm:2.0.2"
-  checksum: e3fb1628155d49afa665c9b5f6efce37f9af01e9daec38a2c6105c149922ea995a755d6916d0d82d95f08ce1a84ce6aed6c622578317dce8c6eed241a7986ca6
+"theme-change@npm:^2.3.0":
+  version: 2.3.0
+  resolution: "theme-change@npm:2.3.0"
+  checksum: 6f32de328144d678b86474bdd629b75cd08fe00c4673eee3155508b9a9d6c433c8fb587c69a7ac96695ff032eff4efbb36331243819549ec927972e19df1df7f
   languageName: node
   linkType: hard
 
