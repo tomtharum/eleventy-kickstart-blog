@@ -108,7 +108,7 @@
         "postcss-preset-env": "^6.7.0",
         "prettier": "^2.3.2",
         "psi": "^4.1.0",
-        "rimraf": "^3.0.2",
+        "rimraf": "^4.1.1",
         "run-script-os": "^1.1.6",
         "stylelint": "13.13.1",
         "stylelint-config-prettier": "^8.0.2",
