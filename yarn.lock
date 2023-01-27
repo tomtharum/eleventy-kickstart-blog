@@ -1552,10 +1552,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/standalone@npm:^7.14.7":
-  version: 7.14.7
-  resolution: "@babel/standalone@npm:7.14.7"
-  checksum: 9729d11f5a9a7de8f5f4d1059fe14788467c72f1b33cbeecd360bab4f5695b5999876867c301a6b912cf85e05e3e11073b12be262a840aff4739eb00b063b6c0
+"@babel/standalone@npm:^7.20.13":
+  version: 7.20.13
+  resolution: "@babel/standalone@npm:7.20.13"
+  checksum: a064788b20a61bc16396c3efce58278c207f623204af41a4489c33f2503663a9963d652ed199c22623b6771bf1ff87c58e918f084ee5b7d735f3e57ae7d78691
   languageName: node
   linkType: hard
 
@@ -2469,6 +2469,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@jridgewell/sourcemap-codec@npm:^1.4.13":
+  version: 1.4.14
+  resolution: "@jridgewell/sourcemap-codec@npm:1.4.14"
+  checksum: bc601cc782f385eac186a0151003e1de615b610282d294fa30840cd2382b8e657ea854bff4fe3e8e6107c81533bac0a8bd003d87eee4a7ffe839fba3a07e2969
+  languageName: node
+  linkType: hard
+
 "@marionebl/sander@npm:^0.6.0":
   version: 0.6.1
   resolution: "@marionebl/sander@npm:0.6.1"
@@ -2680,18 +2687,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vitejs/plugin-legacy@npm:^1.4.3":
-  version: 1.4.3
-  resolution: "@vitejs/plugin-legacy@npm:1.4.3"
+"@vitejs/plugin-legacy@npm:^3.0.2":
+  version: 3.0.2
+  resolution: "@vitejs/plugin-legacy@npm:3.0.2"
   dependencies:
-    "@babel/standalone": ^7.14.7
-    core-js: ^3.15.1
-    magic-string: ^0.25.7
-    regenerator-runtime: ^0.13.7
-    systemjs: ^6.10.1
+    "@babel/standalone": ^7.20.13
+    core-js: ^3.27.2
+    magic-string: ^0.27.0
+    regenerator-runtime: ^0.13.11
+    systemjs: ^6.13.0
   peerDependencies:
-    vite: ^2.0.0
-  checksum: 2529c938468644a631ea92a4fcaef7a7e6da4fc1dc4905319c38947cec21713986f7fa66054bf781fdb04de54abbe21601f62cc9c996441c2edbc7624264ff63
+    terser: ^5.4.0
+    vite: ^4.0.0
+  checksum: d323c51cf90e6f42a8540e5952598279a64394c8d9bc13e57977ba365f335a691af22a6cf0239a9f6dcbd97c350257e7a1807a7577d0a6272df2079d811f2e17
   languageName: node
   linkType: hard
 
@@ -4868,10 +4876,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"core-js@npm:^3.15.1":
-  version: 3.15.1
-  resolution: "core-js@npm:3.15.1"
-  checksum: 162cc456311d54da079f9bf447a86f626c443f2893a2541fe159b520ec38730c0200fa61c9ce5a3743f450e36024ac754f5c0a2ca22053d60be8b4cfee6c4d2e
+"core-js@npm:^3.27.2":
+  version: 3.27.2
+  resolution: "core-js@npm:3.27.2"
+  checksum: 9dc195c95c24e84ac3e8b4d39f45e772dbc1bc5cd7609be54433e5dcec3b3b2dfdf216810ce80c103d47ea5154987ba4f18201b539cbccb3f09793d350b3b6f1
   languageName: node
   linkType: hard
 
@@ -6896,7 +6904,7 @@ __metadata:
     "@fortawesome/fontawesome-free": ^5.15.3
     "@picgo/bump-version": ^1.1.0
     "@squoosh/lib": ^0.3.1
-    "@vitejs/plugin-legacy": ^1.4.3
+    "@vitejs/plugin-legacy": ^3.0.2
     alpinejs: ^3.2.1
     autoprefixer: ^10.2.6
     concurrently: ^6.2.0
@@ -9865,12 +9873,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"magic-string@npm:^0.25.7":
-  version: 0.25.7
-  resolution: "magic-string@npm:0.25.7"
+"magic-string@npm:^0.27.0":
+  version: 0.27.0
+  resolution: "magic-string@npm:0.27.0"
   dependencies:
-    sourcemap-codec: ^1.4.4
-  checksum: 4b70c13eb21c6f1c54bf7fb029748dc44d6bfcd3c59e5deeda060eecc38df6144b91d10fb7a3cf6156fadab1a68f83d69a189df20ca5f6bd088bf0196ea8f039
+    "@jridgewell/sourcemap-codec": ^1.4.13
+  checksum: 547365b4c8306a06fc08c959e4932c9208aed437925ac14c2f286273ec9889f2318bab76ababe6f98f1d520f9bb971c6df7e8467aed6eaef806d87336fdfd7f4
   languageName: node
   linkType: hard
 
@@ -13262,7 +13270,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"regenerator-runtime@npm:^0.13.3, regenerator-runtime@npm:^0.13.4, regenerator-runtime@npm:^0.13.7":
+"regenerator-runtime@npm:^0.13.11":
+  version: 0.13.11
+  resolution: "regenerator-runtime@npm:0.13.11"
+  checksum: b7c850f32500838961c073b885f0b18671867e2f3626d0c6de18fc269147f57d1777fe42d045cb1b9c0dc31a69a5c456d684afeb9adb05cbd788dac521403e68
+  languageName: node
+  linkType: hard
+
+"regenerator-runtime@npm:^0.13.3, regenerator-runtime@npm:^0.13.4":
   version: 0.13.8
   resolution: "regenerator-runtime@npm:0.13.8"
   checksum: 20178f5753f181d59691e5c3b4c59a2769987f75c7ccf325777673b5478acca61a553b10e895585086c222f72f5ee428090acf50320264de4b79f630f7388653
@@ -14354,13 +14369,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sourcemap-codec@npm:^1.4.4":
-  version: 1.4.8
-  resolution: "sourcemap-codec@npm:1.4.8"
-  checksum: 4d56d1232a45af813606d1755f11e7ae6b3542c615a7e3f904382f0134a9412ba8d090e83749254d78449eafdfcc62d5158b8f35e6241480b51b74b5c46b99f9
-  languageName: node
-  linkType: hard
-
 "spawn-command@npm:^0.0.2-1":
   version: 0.0.2
   resolution: "spawn-command@npm:0.0.2"
@@ -14985,10 +14993,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"systemjs@npm:^6.10.1":
-  version: 6.10.1
-  resolution: "systemjs@npm:6.10.1"
-  checksum: c25cbea0cc31d9928b20ebd6e314611604bff3f6716bd34516d99c7d4f517f4ca6dcfe13f914159d76c7d9281de0063ae5f87b45e887e3d6c250640239248977
+"systemjs@npm:^6.13.0":
+  version: 6.13.0
+  resolution: "systemjs@npm:6.13.0"
+  checksum: c39685511f0dd6a4a2f97c3da228e0741fa167bcb9c1beaf3cae06957a4a24c6009e5e9654d169c899d68b22390e5289b91e3471aae251f74449dc32fa0e17d6
   languageName: node
   linkType: hard
 
