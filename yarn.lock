@@ -6924,7 +6924,7 @@ __metadata:
     markdown-it-emoji: ^2.0.0
     moment: ^2.29.1
     npm-run-all: ^4.1.5
-    overlayscrollbars: ^1.13.1
+    overlayscrollbars: ^2.1.0
     postcss: ^8.3.5
     postcss-preset-env: ^6.7.0
     prettier: ^2.3.2
@@ -11097,10 +11097,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"overlayscrollbars@npm:^1.13.1":
-  version: 1.13.1
-  resolution: "overlayscrollbars@npm:1.13.1"
-  checksum: aabe51b092674a0d66b47f0875eea8c628c943adaedc5e861413f133c435c07f972ff5400641f5c4db031d305e7e00514ec71bd3da67b1f3697f797ff95364b9
+"overlayscrollbars@npm:^2.1.0":
+  version: 2.1.0
+  resolution: "overlayscrollbars@npm:2.1.0"
+  checksum: 3150578ace5d17c6555541da88c88b0a7eea21bd8742d1290e462cb0576e9423baccd3c2faa2fa2523900e8d77d1673843034dcd95a8d610834c39ccd2193f2b
   languageName: node
   linkType: hard
 
