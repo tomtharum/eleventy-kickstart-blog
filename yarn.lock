@@ -6933,7 +6933,7 @@ __metadata:
     rimraf: ^3.0.2
     run-script-os: ^1.1.6
     stylelint: 13.13.1
-    stylelint-config-prettier: ^8.0.2
+    stylelint-config-prettier: ^9.0.5
     stylelint-config-standard: 22.0.0
     tailwindcss: ^2.2.4
     theme-change: ^2.0.2
@@ -14795,15 +14795,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"stylelint-config-prettier@npm:^8.0.2":
-  version: 8.0.2
-  resolution: "stylelint-config-prettier@npm:8.0.2"
+"stylelint-config-prettier@npm:^9.0.5":
+  version: 9.0.5
+  resolution: "stylelint-config-prettier@npm:9.0.5"
   peerDependencies:
-    stylelint: ">=11.0.0"
+    stylelint: ">= 11.x < 15"
   bin:
     stylelint-config-prettier: bin/check.js
     stylelint-config-prettier-check: bin/check.js
-  checksum: dd7b09ed02d2a932d9c2de4a1532298c559d590683dcb6c9974592e4e0a74e1d4b0962c9770a0499798dfef9341d4a0dac6a57877b23edc3d1e97e7f99cfd077
+  checksum: 5a4bb6f994534ce3bce3cbe9657ade18afb084c372a93e32a24f7c04e73d4fe2dc313aca1ae0515039b49f2fd8d083a85ce109210bf3d633ffc4cd7c6e1e069a
   languageName: node
   linkType: hard
 
