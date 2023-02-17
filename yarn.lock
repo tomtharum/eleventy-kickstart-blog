@@ -6919,7 +6919,7 @@ __metadata:
     html-minifier: ^4.0.0
     husky: ^6.0.0
     lighthouse: ^8.0.0
-    markdown-it-anchor: ^8.0.4
+    markdown-it-anchor: ^8.6.7
     markdown-it-attrs: ^4.0.0
     markdown-it-emoji: ^2.0.0
     moment: ^2.29.1
@@ -9943,12 +9943,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"markdown-it-anchor@npm:^8.0.4":
-  version: 8.0.4
-  resolution: "markdown-it-anchor@npm:8.0.4"
+"markdown-it-anchor@npm:^8.6.7":
+  version: 8.6.7
+  resolution: "markdown-it-anchor@npm:8.6.7"
   peerDependencies:
+    "@types/markdown-it": "*"
     markdown-it: "*"
-  checksum: 288ac24a5d4bbfff268b103761a7bbc33086f687704bc29da26bf11866c4981b38d7d7119e7a8425d8e70ca67f7a75f38436c4e792178971dd659996793057ce
+  checksum: b5480bdfff3f441030a444f436dcf02711f76a3e1e0fdf1e11a81c83cf989f90de50ea8946a1beac921f387e3ecb3c8ab89854d85b4134f8ccfe3ef99609d620
   languageName: node
   linkType: hard
 
