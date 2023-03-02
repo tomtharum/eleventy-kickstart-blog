@@ -6930,7 +6930,7 @@ __metadata:
     prettier: ^2.3.2
     psi: ^4.1.0
     reveal.js: ^4.1.3
-    rimraf: ^3.0.2
+    rimraf: ^4.1.3
     run-script-os: ^1.1.6
     stylelint: 13.13.1
     stylelint-config-prettier: ^8.0.2
@@ -13659,6 +13659,15 @@ __metadata:
   bin:
     rimraf: bin.js
   checksum: f0de3e445581e64a8a077af476cc30708e659f5779ec2ca2a161556d0792aa318a685923798ae22055b4ecd02b9aff444ef619578f7af53cf8e0e248031e3dee
+  languageName: node
+  linkType: hard
+
+"rimraf@npm:^4.1.3":
+  version: 4.1.3
+  resolution: "rimraf@npm:4.1.3"
+  bin:
+    rimraf: dist/cjs/src/bin.js
+  checksum: 2b2c8b9acaef690238d3a658d480aec1fb0214a07221264b05f530e94a4b3d4ea8b50ecf6abfe02afed3413c03d6cad964e8f4b6342f26c35d7ec44412c66855
   languageName: node
   linkType: hard
 
